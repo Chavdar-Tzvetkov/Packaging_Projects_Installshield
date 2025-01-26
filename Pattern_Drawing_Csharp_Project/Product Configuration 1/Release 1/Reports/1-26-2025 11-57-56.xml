@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="C:\Program Files (x86)\InstallShield\2021\Support\0409\buildreport.xsl"?>
+<BuildReport ProductName="Pattern_Drawing_Csharp_Project" ProductVersion="1.00.0000" Built="1-26-2025 11-57-56" Config="Product Configuration 1" Media="Release 1" Uncompressed="68.72 MB">
+  <Features>
+    <Feature Title="##ID_STRING1##">Install</Feature>
+  </Features>
+  <Components>
+    <Component x64="32">AllOtherFiles</Component>
+    <Component x64="32" KeyPath="microsoft.csharp.dll">Microsoft.CSharp.dll</Component>
+    <Component x64="32" KeyPath="microsoft.diasymreader.nativ">Microsoft.DiaSymReader.Native.amd64.dll</Component>
+    <Component x64="32" KeyPath="microsoft.visualbasic.core.d">Microsoft.VisualBasic.Core.dll</Component>
+    <Component x64="32" KeyPath="microsoft.visualbasic.dll">Microsoft.VisualBasic.dll</Component>
+    <Component x64="32" KeyPath="microsoft.win32.primitives.d">Microsoft.Win32.Primitives.dll</Component>
+    <Component x64="32" KeyPath="microsoft.win32.registry.dll">Microsoft.Win32.Registry.dll</Component>
+    <Component x64="32" KeyPath="pattern_drawing_project_c_.d1">Pattern_Drawing_Project_C_.dll</Component>
+    <Component x64="32" KeyPath="pattern_drawing_project_c_.e">Pattern_Drawing_Project_C_.exe</Component>
+    <Component x64="32" KeyPath="system.appcontext.dll">System.AppContext.dll</Component>
+    <Component x64="32" KeyPath="system.buffers.dll">System.Buffers.dll</Component>
+    <Component x64="32" KeyPath="system.collections.concurren">System.Collections.Concurrent.dll</Component>
+    <Component x64="32" KeyPath="system.collections.immutable">System.Collections.Immutable.dll</Component>
+    <Component x64="32" KeyPath="system.collections.nongeneri">System.Collections.NonGeneric.dll</Component>
+    <Component x64="32" KeyPath="system.collections.specializ">System.Collections.Specialized.dll</Component>
+    <Component x64="32" KeyPath="system.collections.dll">System.Collections.dll</Component>
+    <Component x64="32" KeyPath="system.componentmodel.annota">System.ComponentModel.Annotations.dll</Component>
+    <Component x64="32" KeyPath="system.componentmodel.dataan">System.ComponentModel.DataAnnotations.dll</Component>
+    <Component x64="32" KeyPath="system.componentmodel.eventb">System.ComponentModel.EventBasedAsync.dll</Component>
+    <Component x64="32" KeyPath="system.componentmodel.primit">System.ComponentModel.Primitives.dll</Component>
+    <Component x64="32" KeyPath="system.componentmodel.typeco">System.ComponentModel.TypeConverter.dll</Component>
+    <Component x64="32" KeyPath="system.componentmodel.dll">System.ComponentModel.dll</Component>
+    <Component x64="32" KeyPath="system.configuration.dll">System.Configuration.dll</Component>
+    <Component x64="32" KeyPath="system.console.dll">System.Console.dll</Component>
+    <Component x64="32" KeyPath="system.core.dll">System.Core.dll</Component>
+    <Component x64="32" KeyPath="system.data.common.dll">System.Data.Common.dll</Component>
+    <Component x64="32" KeyPath="system.data.datasetextension">System.Data.DataSetExtensions.dll</Component>
+    <Component x64="32" KeyPath="system.data.dll">System.Data.dll</Component>
+    <Component x64="32" KeyPath="system.diagnostics.contracts">System.Diagnostics.Contracts.dll</Component>
+    <Component x64="32" KeyPath="system.diagnostics.debug.dll">System.Diagnostics.Debug.dll</Component>
+    <Component x64="32" KeyPath="system.diagnostics.diagnosti">System.Diagnostics.DiagnosticSource.dll</Component>
+    <Component x64="32" KeyPath="system.diagnostics.fileversi">System.Diagnostics.FileVersionInfo.dll</Component>
+    <Component x64="32" KeyPath="system.diagnostics.process.d">System.Diagnostics.Process.dll</Component>
+    <Component x64="32" KeyPath="system.diagnostics.stacktrac">System.Diagnostics.StackTrace.dll</Component>
+    <Component x64="32" KeyPath="system.diagnostics.textwrite">System.Diagnostics.TextWriterTraceListener.dll</Component>
+    <Component x64="32" KeyPath="system.diagnostics.tools.dll">System.Diagnostics.Tools.dll</Component>
+    <Component x64="32" KeyPath="system.diagnostics.tracesour">System.Diagnostics.TraceSource.dll</Component>
+    <Component x64="32" KeyPath="system.diagnostics.tracing.d">System.Diagnostics.Tracing.dll</Component>
+    <Component x64="32" KeyPath="system.drawing.primitives.dl">System.Drawing.Primitives.dll</Component>
+    <Component x64="32" KeyPath="system.drawing.dll">System.Drawing.dll</Component>
+    <Component x64="32" KeyPath="system.dynamic.runtime.dll">System.Dynamic.Runtime.dll</Component>
+    <Component x64="32" KeyPath="system.formats.asn1.dll">System.Formats.Asn1.dll</Component>
+    <Component x64="32" KeyPath="system.globalization.calenda">System.Globalization.Calendars.dll</Component>
+    <Component x64="32" KeyPath="system.globalization.extensi">System.Globalization.Extensions.dll</Component>
+    <Component x64="32" KeyPath="system.globalization.dll">System.Globalization.dll</Component>
+    <Component x64="32" KeyPath="system.io.compression.brotli">System.IO.Compression.Brotli.dll</Component>
+    <Component x64="32" KeyPath="system.io.compression.filesy">System.IO.Compression.FileSystem.dll</Component>
+    <Component x64="32" KeyPath="system.io.compression.native">System.IO.Compression.Native.dll</Component>
+    <Component x64="32" KeyPath="system.io.compression.zipfil">System.IO.Compression.ZipFile.dll</Component>
+    <Component x64="32" KeyPath="system.io.compression.dll">System.IO.Compression.dll</Component>
+    <Component x64="32" KeyPath="system.io.filesystem.accessc">System.IO.FileSystem.AccessControl.dll</Component>
+    <Component x64="32" KeyPath="system.io.filesystem.drivein">System.IO.FileSystem.DriveInfo.dll</Component>
+    <Component x64="32" KeyPath="system.io.filesystem.primiti">System.IO.FileSystem.Primitives.dll</Component>
+    <Component x64="32" KeyPath="system.io.filesystem.watcher">System.IO.FileSystem.Watcher.dll</Component>
+    <Component x64="32" KeyPath="system.io.filesystem.dll">System.IO.FileSystem.dll</Component>
+    <Component x64="32" KeyPath="system.io.isolatedstorage.dl">System.IO.IsolatedStorage.dll</Component>
+    <Component x64="32" KeyPath="system.io.memorymappedfiles.">System.IO.MemoryMappedFiles.dll</Component>
+    <Component x64="32" KeyPath="system.io.pipes.accesscontro">System.IO.Pipes.AccessControl.dll</Component>
+    <Component x64="32" KeyPath="system.io.pipes.dll">System.IO.Pipes.dll</Component>
+    <Component x64="32" KeyPath="system.io.unmanagedmemorystr">System.IO.UnmanagedMemoryStream.dll</Component>
+    <Component x64="32" KeyPath="system.io.dll">System.IO.dll</Component>
+    <Component x64="32" KeyPath="system.linq.expressions.dll">System.Linq.Expressions.dll</Component>
+    <Component x64="32" KeyPath="system.linq.parallel.dll">System.Linq.Parallel.dll</Component>
+    <Component x64="32" KeyPath="system.linq.queryable.dll">System.Linq.Queryable.dll</Component>
+    <Component x64="32" KeyPath="system.linq.dll">System.Linq.dll</Component>
+    <Component x64="32" KeyPath="system.memory.dll">System.Memory.dll</Component>
+    <Component x64="32" KeyPath="system.net.http.json.dll">System.Net.Http.Json.dll</Component>
+    <Component x64="32" KeyPath="system.net.http.dll">System.Net.Http.dll</Component>
+    <Component x64="32" KeyPath="system.net.httplistener.dll">System.Net.HttpListener.dll</Component>
+    <Component x64="32" KeyPath="system.net.mail.dll">System.Net.Mail.dll</Component>
+    <Component x64="32" KeyPath="system.net.nameresolution.dl">System.Net.NameResolution.dll</Component>
+    <Component x64="32" KeyPath="system.net.networkinformatio">System.Net.NetworkInformation.dll</Component>
+    <Component x64="32" KeyPath="system.net.ping.dll">System.Net.Ping.dll</Component>
+    <Component x64="32" KeyPath="system.net.primitives.dll">System.Net.Primitives.dll</Component>
+    <Component x64="32" KeyPath="system.net.quic.dll">System.Net.Quic.dll</Component>
+    <Component x64="32" KeyPath="system.net.requests.dll">System.Net.Requests.dll</Component>
+    <Component x64="32" KeyPath="system.net.security.dll">System.Net.Security.dll</Component>
+    <Component x64="32" KeyPath="system.net.servicepoint.dll">System.Net.ServicePoint.dll</Component>
+    <Component x64="32" KeyPath="system.net.sockets.dll">System.Net.Sockets.dll</Component>
+    <Component x64="32" KeyPath="system.net.webclient.dll">System.Net.WebClient.dll</Component>
+    <Component x64="32" KeyPath="system.net.webheadercollecti">System.Net.WebHeaderCollection.dll</Component>
+    <Component x64="32" KeyPath="system.net.webproxy.dll">System.Net.WebProxy.dll</Component>
+    <Component x64="32" KeyPath="system.net.websockets.client">System.Net.WebSockets.Client.dll</Component>
+    <Component x64="32" KeyPath="system.net.websockets.dll">System.Net.WebSockets.dll</Component>
+    <Component x64="32" KeyPath="system.net.dll">System.Net.dll</Component>
+    <Component x64="32" KeyPath="system.numerics.vectors.dll">System.Numerics.Vectors.dll</Component>
+    <Component x64="32" KeyPath="system.numerics.dll">System.Numerics.dll</Component>
+    <Component x64="32" KeyPath="system.objectmodel.dll">System.ObjectModel.dll</Component>
+    <Component x64="32" KeyPath="system.private.corelib.dll">System.Private.CoreLib.dll</Component>
+    <Component x64="32" KeyPath="system.private.datacontracts">System.Private.DataContractSerialization.dll</Component>
+    <Component x64="32" KeyPath="system.private.uri.dll">System.Private.Uri.dll</Component>
+    <Component x64="32" KeyPath="system.private.xml.linq.dll">System.Private.Xml.Linq.dll</Component>
+    <Component x64="32" KeyPath="system.private.xml.dll">System.Private.Xml.dll</Component>
+    <Component x64="32" KeyPath="system.reflection.dispatchpr">System.Reflection.DispatchProxy.dll</Component>
+    <Component x64="32" KeyPath="system.reflection.emit.ilgen">System.Reflection.Emit.ILGeneration.dll</Component>
+    <Component x64="32" KeyPath="system.reflection.emit.light">System.Reflection.Emit.Lightweight.dll</Component>
+    <Component x64="32" KeyPath="system.reflection.emit.dll">System.Reflection.Emit.dll</Component>
+    <Component x64="32" KeyPath="system.reflection.extensions">System.Reflection.Extensions.dll</Component>
+    <Component x64="32" KeyPath="system.reflection.metadata.d">System.Reflection.Metadata.dll</Component>
+    <Component x64="32" KeyPath="system.reflection.primitives">System.Reflection.Primitives.dll</Component>
+    <Component x64="32" KeyPath="system.reflection.typeextens">System.Reflection.TypeExtensions.dll</Component>
+    <Component x64="32" KeyPath="system.reflection.dll">System.Reflection.dll</Component>
+    <Component x64="32" KeyPath="system.resources.reader.dll">System.Resources.Reader.dll</Component>
+    <Component x64="32" KeyPath="system.resources.resourceman">System.Resources.ResourceManager.dll</Component>
+    <Component x64="32" KeyPath="system.resources.writer.dll">System.Resources.Writer.dll</Component>
+    <Component x64="32" KeyPath="system.runtime.compilerservi">System.Runtime.CompilerServices.Unsafe.dll</Component>
+    <Component x64="32" KeyPath="system.runtime.compilerservi1">System.Runtime.CompilerServices.VisualC.dll</Component>
+    <Component x64="32" KeyPath="system.runtime.extensions.dl">System.Runtime.Extensions.dll</Component>
+    <Component x64="32" KeyPath="system.runtime.handles.dll">System.Runtime.Handles.dll</Component>
+    <Component x64="32" KeyPath="system.runtime.interopservic1">System.Runtime.InteropServices.RuntimeInformation.dll</Component>
+    <Component x64="32" KeyPath="system.runtime.interopservic">System.Runtime.InteropServices.dll</Component>
+    <Component x64="32" KeyPath="system.runtime.intrinsics.dl">System.Runtime.Intrinsics.dll</Component>
+    <Component x64="32" KeyPath="system.runtime.loader.dll">System.Runtime.Loader.dll</Component>
+    <Component x64="32" KeyPath="system.runtime.numerics.dll">System.Runtime.Numerics.dll</Component>
+    <Component x64="32" KeyPath="system.runtime.serialization1">System.Runtime.Serialization.Formatters.dll</Component>
+    <Component x64="32" KeyPath="system.runtime.serialization2">System.Runtime.Serialization.Json.dll</Component>
+    <Component x64="32" KeyPath="system.runtime.serialization3">System.Runtime.Serialization.Primitives.dll</Component>
+    <Component x64="32" KeyPath="system.runtime.serialization4">System.Runtime.Serialization.Xml.dll</Component>
+    <Component x64="32" KeyPath="system.runtime.serialization">System.Runtime.Serialization.dll</Component>
+    <Component x64="32" KeyPath="system.runtime.dll">System.Runtime.dll</Component>
+    <Component x64="32" KeyPath="system.security.accesscontro">System.Security.AccessControl.dll</Component>
+    <Component x64="32" KeyPath="system.security.claims.dll">System.Security.Claims.dll</Component>
+    <Component x64="32" KeyPath="system.security.cryptography">System.Security.Cryptography.Algorithms.dll</Component>
+    <Component x64="32" KeyPath="system.security.cryptography1">System.Security.Cryptography.Cng.dll</Component>
+    <Component x64="32" KeyPath="system.security.cryptography2">System.Security.Cryptography.Csp.dll</Component>
+    <Component x64="32" KeyPath="system.security.cryptography3">System.Security.Cryptography.Encoding.dll</Component>
+    <Component x64="32" KeyPath="system.security.cryptography4">System.Security.Cryptography.OpenSsl.dll</Component>
+    <Component x64="32" KeyPath="system.security.cryptography5">System.Security.Cryptography.Primitives.dll</Component>
+    <Component x64="32" KeyPath="system.security.cryptography6">System.Security.Cryptography.X509Certificates.dll</Component>
+    <Component x64="32" KeyPath="system.security.principal.wi">System.Security.Principal.Windows.dll</Component>
+    <Component x64="32" KeyPath="system.security.principal.dl">System.Security.Principal.dll</Component>
+    <Component x64="32" KeyPath="system.security.securestring">System.Security.SecureString.dll</Component>
+    <Component x64="32" KeyPath="system.security.dll">System.Security.dll</Component>
+    <Component x64="32" KeyPath="system.servicemodel.web.dll">System.ServiceModel.Web.dll</Component>
+    <Component x64="32" KeyPath="system.serviceprocess.dll">System.ServiceProcess.dll</Component>
+    <Component x64="32" KeyPath="system.text.encoding.codepag">System.Text.Encoding.CodePages.dll</Component>
+    <Component x64="32" KeyPath="system.text.encoding.extensi">System.Text.Encoding.Extensions.dll</Component>
+    <Component x64="32" KeyPath="system.text.encoding.dll">System.Text.Encoding.dll</Component>
+    <Component x64="32" KeyPath="system.text.encodings.web.dl">System.Text.Encodings.Web.dll</Component>
+    <Component x64="32" KeyPath="system.text.json.dll">System.Text.Json.dll</Component>
+    <Component x64="32" KeyPath="system.text.regularexpressio">System.Text.RegularExpressions.dll</Component>
+    <Component x64="32" KeyPath="system.threading.channels.dl">System.Threading.Channels.dll</Component>
+    <Component x64="32" KeyPath="system.threading.overlapped.">System.Threading.Overlapped.dll</Component>
+    <Component x64="32" KeyPath="system.threading.tasks.dataf">System.Threading.Tasks.Dataflow.dll</Component>
+    <Component x64="32" KeyPath="system.threading.tasks.exten">System.Threading.Tasks.Extensions.dll</Component>
+    <Component x64="32" KeyPath="system.threading.tasks.paral">System.Threading.Tasks.Parallel.dll</Component>
+    <Component x64="32" KeyPath="system.threading.tasks.dll">System.Threading.Tasks.dll</Component>
+    <Component x64="32" KeyPath="system.threading.thread.dll">System.Threading.Thread.dll</Component>
+    <Component x64="32" KeyPath="system.threading.threadpool.">System.Threading.ThreadPool.dll</Component>
+    <Component x64="32" KeyPath="system.threading.timer.dll">System.Threading.Timer.dll</Component>
+    <Component x64="32" KeyPath="system.threading.dll">System.Threading.dll</Component>
+    <Component x64="32" KeyPath="system.transactions.local.dl">System.Transactions.Local.dll</Component>
+    <Component x64="32" KeyPath="system.transactions.dll">System.Transactions.dll</Component>
+    <Component x64="32" KeyPath="system.valuetuple.dll">System.ValueTuple.dll</Component>
+    <Component x64="32" KeyPath="system.web.httputility.dll">System.Web.HttpUtility.dll</Component>
+    <Component x64="32" KeyPath="system.web.dll">System.Web.dll</Component>
+    <Component x64="32" KeyPath="system.windows.dll">System.Windows.dll</Component>
+    <Component x64="32" KeyPath="system.xml.linq.dll">System.Xml.Linq.dll</Component>
+    <Component x64="32" KeyPath="system.xml.readerwriter.dll">System.Xml.ReaderWriter.dll</Component>
+    <Component x64="32" KeyPath="system.xml.serialization.dll">System.Xml.Serialization.dll</Component>
+    <Component x64="32" KeyPath="system.xml.xdocument.dll">System.Xml.XDocument.dll</Component>
+    <Component x64="32" KeyPath="system.xml.xpath.xdocument.d">System.Xml.XPath.XDocument.dll</Component>
+    <Component x64="32" KeyPath="system.xml.xpath.dll">System.Xml.XPath.dll</Component>
+    <Component x64="32" KeyPath="system.xml.xmldocument.dll">System.Xml.XmlDocument.dll</Component>
+    <Component x64="32" KeyPath="system.xml.xmlserializer.dll">System.Xml.XmlSerializer.dll</Component>
+    <Component x64="32" KeyPath="system.xml.dll">System.Xml.dll</Component>
+    <Component x64="32" KeyPath="system.dll">System.dll</Component>
+    <Component x64="32" KeyPath="windowsbase.dll">WindowsBase.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_core_console_l1_1">api_ms_win_core_console_l1_1_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_core_console_l1_2">api_ms_win_core_console_l1_2_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_core_datetime_l1_">api_ms_win_core_datetime_l1_1_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_core_debug_l1_1_0">api_ms_win_core_debug_l1_1_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_core_errorhandlin">api_ms_win_core_errorhandling_l1_1_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_core_fibers_l1_1_">api_ms_win_core_fibers_l1_1_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_core_file_l1_1_0.">api_ms_win_core_file_l1_1_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_core_file_l1_2_0.">api_ms_win_core_file_l1_2_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_core_file_l2_1_0.">api_ms_win_core_file_l2_1_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_core_handle_l1_1_">api_ms_win_core_handle_l1_1_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_core_heap_l1_1_0.">api_ms_win_core_heap_l1_1_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_core_interlocked_">api_ms_win_core_interlocked_l1_1_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_core_libraryloade">api_ms_win_core_libraryloader_l1_1_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_core_localization">api_ms_win_core_localization_l1_2_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_core_memory_l1_1_">api_ms_win_core_memory_l1_1_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_core_namedpipe_l1">api_ms_win_core_namedpipe_l1_1_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_core_processenvir">api_ms_win_core_processenvironment_l1_1_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_core_processthrea">api_ms_win_core_processthreads_l1_1_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_core_processthrea1">api_ms_win_core_processthreads_l1_1_1.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_core_profile_l1_1">api_ms_win_core_profile_l1_1_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_core_rtlsupport_l">api_ms_win_core_rtlsupport_l1_1_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_core_string_l1_1_">api_ms_win_core_string_l1_1_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_core_synch_l1_1_0">api_ms_win_core_synch_l1_1_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_core_synch_l1_2_0">api_ms_win_core_synch_l1_2_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_core_sysinfo_l1_1">api_ms_win_core_sysinfo_l1_1_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_core_timezone_l1_">api_ms_win_core_timezone_l1_1_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_core_util_l1_1_0.">api_ms_win_core_util_l1_1_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_crt_conio_l1_1_0.">api_ms_win_crt_conio_l1_1_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_crt_convert_l1_1_">api_ms_win_crt_convert_l1_1_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_crt_environment_l">api_ms_win_crt_environment_l1_1_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_crt_filesystem_l1">api_ms_win_crt_filesystem_l1_1_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_crt_heap_l1_1_0.d">api_ms_win_crt_heap_l1_1_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_crt_locale_l1_1_0">api_ms_win_crt_locale_l1_1_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_crt_math_l1_1_0.d">api_ms_win_crt_math_l1_1_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_crt_multibyte_l1_">api_ms_win_crt_multibyte_l1_1_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_crt_private_l1_1_">api_ms_win_crt_private_l1_1_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_crt_process_l1_1_">api_ms_win_crt_process_l1_1_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_crt_runtime_l1_1_">api_ms_win_crt_runtime_l1_1_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_crt_stdio_l1_1_0.">api_ms_win_crt_stdio_l1_1_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_crt_string_l1_1_0">api_ms_win_crt_string_l1_1_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_crt_time_l1_1_0.d">api_ms_win_crt_time_l1_1_0.dll</Component>
+    <Component x64="32" KeyPath="api_ms_win_crt_utility_l1_1_">api_ms_win_crt_utility_l1_1_0.dll</Component>
+    <Component x64="32" KeyPath="clretwrc.dll">clretwrc.dll</Component>
+    <Component x64="32" KeyPath="clrjit.dll">clrjit.dll</Component>
+    <Component x64="32" KeyPath="coreclr.dll">coreclr.dll</Component>
+    <Component x64="32" KeyPath="createdump.exe">createdump.exe</Component>
+    <Component x64="32" KeyPath="dbgshim.dll">dbgshim.dll</Component>
+    <Component x64="32" KeyPath="hostfxr.dll">hostfxr.dll</Component>
+    <Component x64="32" KeyPath="hostpolicy.dll">hostpolicy.dll</Component>
+    <Component x64="32" KeyPath="mscordaccore.dll">mscordaccore.dll</Component>
+    <Component x64="32" KeyPath="mscordaccore_amd64_amd64_6.0">mscordaccore_amd64_amd64_6.0.3524.45918.dll</Component>
+    <Component x64="32" KeyPath="mscordbi.dll">mscordbi.dll</Component>
+    <Component x64="32" KeyPath="mscorlib.dll">mscorlib.dll</Component>
+    <Component x64="32" KeyPath="mscorrc.dll">mscorrc.dll</Component>
+    <Component x64="32" KeyPath="msquic.dll">msquic.dll</Component>
+    <Component x64="32" KeyPath="netstandard.dll">netstandard.dll</Component>
+    <Component x64="32" KeyPath="ucrtbase.dll">ucrtbase.dll</Component>
+  </Components>
+  <Prerequisites />
+  <MergeModules />
+  <DynamicLinks />
+  <Files>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_core_console_l1_1_0.dll" Modified="11.9.2021 22:05:10" Size="20944" Version="10.0.22000.194">api-ms-win-core-console-l1-1-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_core_console_l1_2_0.dll" Modified="11.9.2021 22:05:14" Size="20960" Version="10.0.22000.194">api-ms-win-core-console-l1-2-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_core_datetime_l1_1_0.dll" Modified="11.9.2021 22:05:12" Size="20952" Version="10.0.22000.194">api-ms-win-core-datetime-l1-1-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_core_debug_l1_1_0.dll" Modified="11.9.2021 22:05:12" Size="20944" Version="10.0.22000.194">api-ms-win-core-debug-l1-1-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_core_errorhandling_l1_1_0.dll" Modified="11.9.2021 22:05:42" Size="20944" Version="10.0.22000.194">api-ms-win-core-errorhandling-l1-1-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_core_fibers_l1_1_0.dll" Modified="11.9.2021 22:05:12" Size="20944" Version="10.0.22000.194">api-ms-win-core-fibers-l1-1-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_core_file_l1_1_0.dll" Modified="11.9.2021 22:05:10" Size="25048" Version="10.0.22000.194">api-ms-win-core-file-l1-1-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_core_file_l1_2_0.dll" Modified="11.9.2021 22:05:10" Size="20960" Version="10.0.22000.194">api-ms-win-core-file-l1-2-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_core_file_l2_1_0.dll" Modified="11.9.2021 22:05:08" Size="20960" Version="10.0.22000.194">api-ms-win-core-file-l2-1-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_core_handle_l1_1_0.dll" Modified="11.9.2021 22:05:12" Size="20944" Version="10.0.22000.194">api-ms-win-core-handle-l1-1-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_core_heap_l1_1_0.dll" Modified="11.9.2021 22:05:10" Size="20960" Version="10.0.22000.194">api-ms-win-core-heap-l1-1-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_core_interlocked_l1_1_0.dll" Modified="11.9.2021 22:05:12" Size="20944" Version="10.0.22000.194">api-ms-win-core-interlocked-l1-1-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_core_libraryloader_l1_1_0.dll" Modified="11.9.2021 22:05:10" Size="20944" Version="10.0.22000.194">api-ms-win-core-libraryloader-l1-1-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_core_localization_l1_2_0.dll" Modified="11.9.2021 22:05:08" Size="20960" Version="10.0.22000.194">api-ms-win-core-localization-l1-2-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_core_memory_l1_1_0.dll" Modified="11.9.2021 22:05:12" Size="20944" Version="10.0.22000.194">api-ms-win-core-memory-l1-1-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_core_namedpipe_l1_1_0.dll" Modified="11.9.2021 22:05:10" Size="20960" Version="10.0.22000.194">api-ms-win-core-namedpipe-l1-1-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_core_processenvironment_l1_1_0.dll" Modified="11.9.2021 22:05:12" Size="20944" Version="10.0.22000.194">api-ms-win-core-processenvironment-l1-1-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_core_processthreads_l1_1_0.dll" Modified="11.9.2021 22:05:12" Size="20944" Version="10.0.22000.194">api-ms-win-core-processthreads-l1-1-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_core_processthreads_l1_1_1.dll" Modified="11.9.2021 22:05:12" Size="20944" Version="10.0.22000.194">api-ms-win-core-processthreads-l1-1-1.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_core_profile_l1_1_0.dll" Modified="11.9.2021 22:05:12" Size="20944" Version="10.0.22000.194">api-ms-win-core-profile-l1-1-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_core_rtlsupport_l1_1_0.dll" Modified="11.9.2021 22:05:12" Size="20960" Version="10.0.22000.194">api-ms-win-core-rtlsupport-l1-1-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_core_string_l1_1_0.dll" Modified="11.9.2021 22:05:10" Size="20960" Version="10.0.22000.194">api-ms-win-core-string-l1-1-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_core_synch_l1_1_0.dll" Modified="11.9.2021 22:05:10" Size="20944" Version="10.0.22000.194">api-ms-win-core-synch-l1-1-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_core_synch_l1_2_0.dll" Modified="11.9.2021 22:05:12" Size="20944" Version="10.0.22000.194">api-ms-win-core-synch-l1-2-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_core_sysinfo_l1_1_0.dll" Modified="11.9.2021 22:05:12" Size="20944" Version="10.0.22000.194">api-ms-win-core-sysinfo-l1-1-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_core_timezone_l1_1_0.dll" Modified="11.9.2021 22:05:32" Size="20944" Version="10.0.22000.194">api-ms-win-core-timezone-l1-1-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_core_util_l1_1_0.dll" Modified="11.9.2021 22:05:12" Size="20944" Version="10.0.22000.194">api-ms-win-core-util-l1-1-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_crt_conio_l1_1_0.dll" Modified="11.9.2021 22:05:12" Size="20944" Version="10.0.22000.194">api-ms-win-crt-conio-l1-1-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_crt_convert_l1_1_0.dll" Modified="11.9.2021 22:05:16" Size="25056" Version="10.0.22000.194">api-ms-win-crt-convert-l1-1-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_crt_environment_l1_1_0.dll" Modified="11.9.2021 22:05:12" Size="20944" Version="10.0.22000.194">api-ms-win-crt-environment-l1-1-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_crt_filesystem_l1_1_0.dll" Modified="11.9.2021 22:05:12" Size="20944" Version="10.0.22000.194">api-ms-win-crt-filesystem-l1-1-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_crt_heap_l1_1_0.dll" Modified="11.9.2021 22:05:22" Size="20944" Version="10.0.22000.194">api-ms-win-crt-heap-l1-1-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_crt_locale_l1_1_0.dll" Modified="11.9.2021 22:05:12" Size="20944" Version="10.0.22000.194">api-ms-win-crt-locale-l1-1-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_crt_math_l1_1_0.dll" Modified="11.9.2021 22:05:12" Size="29144" Version="10.0.22000.194">api-ms-win-crt-math-l1-1-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_crt_multibyte_l1_1_0.dll" Modified="11.9.2021 22:05:32" Size="29136" Version="10.0.22000.194">api-ms-win-crt-multibyte-l1-1-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_crt_private_l1_1_0.dll" Modified="11.9.2021 22:05:12" Size="74192" Version="10.0.22000.194">api-ms-win-crt-private-l1-1-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_crt_process_l1_1_0.dll" Modified="11.9.2021 22:05:10" Size="20944" Version="10.0.22000.194">api-ms-win-crt-process-l1-1-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_crt_runtime_l1_1_0.dll" Modified="11.9.2021 22:05:10" Size="25040" Version="10.0.22000.194">api-ms-win-crt-runtime-l1-1-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_crt_stdio_l1_1_0.dll" Modified="11.9.2021 22:05:10" Size="25040" Version="10.0.22000.194">api-ms-win-crt-stdio-l1-1-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_crt_string_l1_1_0.dll" Modified="11.9.2021 22:05:10" Size="25040" Version="10.0.22000.194">api-ms-win-crt-string-l1-1-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_crt_time_l1_1_0.dll" Modified="11.9.2021 22:05:12" Size="20944" Version="10.0.22000.194">api-ms-win-crt-time-l1-1-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="api_ms_win_crt_utility_l1_1_0.dll" Modified="11.9.2021 22:05:08" Size="20944" Version="10.0.22000.194">api-ms-win-crt-utility-l1-1-0.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="clretwrc.dll" Modified="10.9.2024 8:20:36" Size="304912" Version="6.0.3524.45918">clretwrc.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="clrjit.dll" Modified="10.9.2024 8:17:06" Size="1436960" Version="6.0.3524.45918">clrjit.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="coreclr.dll" Modified="10.9.2024 8:14:04" Size="5125384" Version="6.0.3524.45918">coreclr.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="createdump.exe" Modified="10.9.2024 8:20:10" Size="58208" Version="6.0.3524.45918">createdump.exe</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="dbgshim.dll" Modified="10.9.2024 8:20:40" Size="140552" Version="6.0.3524.45918">dbgshim.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="hostfxr.dll" Modified="10.9.2024 8:26:14" Size="378016" Version="6.0.3524.45918">hostfxr.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="hostpolicy.dll" Modified="10.9.2024 8:26:16" Size="394504" Version="6.0.3524.45918">hostpolicy.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="Microsoft.CSharp.dll" Modified="10.9.2024 8:43:58" Size="1042720" Version="6.0.3524.45918">Microsoft.CSharp.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="Microsoft.DiaSymReader.Native.amd64.dll" Modified="28.4.2024 1:20:08" Size="2309152" Version="14.40.33810.0">Microsoft.DiaSymReader.Native.amd64.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="Microsoft.VisualBasic.Core.dll" Modified="10.9.2024 8:44:02" Size="1245448" Version="11.100.3524.45918">Microsoft.VisualBasic.Core.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="Microsoft.VisualBasic.dll" Modified="10.9.2024 8:28:30" Size="18184" Version="6.0.3524.45918">Microsoft.VisualBasic.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="Microsoft.Win32.Primitives.dll" Modified="10.9.2024 8:44:04" Size="26376" Version="6.0.3524.45918">Microsoft.Win32.Primitives.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="Microsoft.Win32.Registry.dll" Modified="10.9.2024 8:44:06" Size="87824" Version="6.0.3524.45918">Microsoft.Win32.Registry.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="mscordaccore.dll" Modified="10.9.2024 8:22:04" Size="1320504" Version="6.0.3524.45918">mscordaccore.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="mscordaccore_amd64_amd64_6.0.3524.45918.dll" Modified="10.9.2024 8:22:04" Size="1320504" Version="6.0.3524.45918">mscordaccore_amd64_amd64_6.0.3524.45918.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="mscordbi.dll" Modified="10.9.2024 8:22:14" Size="1268256" Version="6.0.3524.45918">mscordbi.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="mscorlib.dll" Modified="10.9.2024 8:36:36" Size="58664" Version="6.0.3524.45918">mscorlib.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="mscorrc.dll" Modified="10.9.2024 8:20:40" Size="147120" Version="6.0.3524.45918">mscorrc.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="msquic.dll" Modified="6.4.2022 6:09:42" Size="517032" Version="1.9.1.0">msquic.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="netstandard.dll" Modified="10.9.2024 8:28:28" Size="101640" Version="6.0.3524.45918">netstandard.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="AllOtherFiles" Modified="26.1.2025 21:42:09" Size="33389" Version="">Pattern_Drawing_Project_C#.deps.json</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="AllOtherFiles" Modified="26.1.2025 21:42:08" Size="12376" Version="">Pattern_Drawing_Project_C#.pdb</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="AllOtherFiles" Modified="26.1.2025 21:42:09" Size="285" Version="">Pattern_Drawing_Project_C#.runtimeconfig.json</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="Pattern_Drawing_Project_C_.dll" Modified="26.1.2025 21:42:08" Size="9728" Version="1.0.0.0">Pattern_Drawing_Project_C#.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="Pattern_Drawing_Project_C_.exe" Modified="26.1.2025 21:42:08" Size="151040" Version="1.0.0.0">Pattern_Drawing_Project_C#.exe</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.AppContext.dll" Modified="10.9.2024 8:33:12" Size="15624" Version="6.0.3524.45918">System.AppContext.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Buffers.dll" Modified="10.9.2024 8:33:42" Size="15632" Version="6.0.3524.45918">System.Buffers.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Collections.Concurrent.dll" Modified="10.9.2024 8:44:08" Size="247080" Version="6.0.3524.45918">System.Collections.Concurrent.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Collections.dll" Modified="10.9.2024 8:44:10" Size="264992" Version="6.0.3524.45918">System.Collections.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Collections.Immutable.dll" Modified="10.9.2024 8:44:12" Size="666288" Version="6.0.3524.45918">System.Collections.Immutable.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Collections.NonGeneric.dll" Modified="10.9.2024 8:44:14" Size="101144" Version="6.0.3524.45918">System.Collections.NonGeneric.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Collections.Specialized.dll" Modified="10.9.2024 8:44:16" Size="95496" Version="6.0.3524.45918">System.Collections.Specialized.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.ComponentModel.Annotations.dll" Modified="10.9.2024 8:44:18" Size="187192" Version="6.0.3524.45918">System.ComponentModel.Annotations.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.ComponentModel.DataAnnotations.dll" Modified="10.9.2024 8:28:30" Size="17672" Version="6.0.3524.45918">System.ComponentModel.DataAnnotations.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.ComponentModel.dll" Modified="10.9.2024 8:44:20" Size="18696" Version="6.0.3524.45918">System.ComponentModel.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.ComponentModel.EventBasedAsync.dll" Modified="10.9.2024 8:44:22" Size="38672" Version="6.0.3524.45918">System.ComponentModel.EventBasedAsync.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.ComponentModel.Primitives.dll" Modified="10.9.2024 8:44:24" Size="75424" Version="6.0.3524.45918">System.ComponentModel.Primitives.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.ComponentModel.TypeConverter.dll" Modified="10.9.2024 8:44:26" Size="747280" Version="6.0.3524.45918">System.ComponentModel.TypeConverter.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Configuration.dll" Modified="10.9.2024 8:28:30" Size="19744" Version="6.0.3524.45918">System.Configuration.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Console.dll" Modified="10.9.2024 8:44:28" Size="156936" Version="6.0.3524.45918">System.Console.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Core.dll" Modified="10.9.2024 8:28:32" Size="24336" Version="6.0.3524.45918">System.Core.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Data.Common.dll" Modified="10.9.2024 8:44:32" Size="2983584" Version="6.0.3524.45918">System.Data.Common.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Data.DataSetExtensions.dll" Modified="10.9.2024 8:29:00" Size="16152" Version="6.0.3524.45918">System.Data.DataSetExtensions.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Data.dll" Modified="10.9.2024 8:36:36" Size="25864" Version="6.0.3524.45918">System.Data.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Diagnostics.Contracts.dll" Modified="10.9.2024 8:32:56" Size="16152" Version="6.0.3524.45918">System.Diagnostics.Contracts.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Diagnostics.Debug.dll" Modified="10.9.2024 8:32:52" Size="16144" Version="6.0.3524.45918">System.Diagnostics.Debug.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Diagnostics.DiagnosticSource.dll" Modified="10.9.2024 8:44:34" Size="380576" Version="6.0.3524.45918">System.Diagnostics.DiagnosticSource.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Diagnostics.FileVersionInfo.dll" Modified="10.9.2024 8:44:36" Size="35600" Version="6.0.3524.45918">System.Diagnostics.FileVersionInfo.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Diagnostics.Process.dll" Modified="10.9.2024 8:44:38" Size="290568" Version="6.0.3524.45918">System.Diagnostics.Process.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Diagnostics.StackTrace.dll" Modified="10.9.2024 8:44:40" Size="36616" Version="6.0.3524.45918">System.Diagnostics.StackTrace.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Diagnostics.TextWriterTraceListener.dll" Modified="10.9.2024 8:44:42" Size="60688" Version="6.0.3524.45918">System.Diagnostics.TextWriterTraceListener.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Diagnostics.Tools.dll" Modified="10.9.2024 8:32:44" Size="16032" Version="6.0.3524.45918">System.Diagnostics.Tools.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Diagnostics.TraceSource.dll" Modified="10.9.2024 8:44:44" Size="133416" Version="6.0.3524.45918">System.Diagnostics.TraceSource.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Diagnostics.Tracing.dll" Modified="10.9.2024 8:32:32" Size="16648" Version="6.0.3524.45918">System.Diagnostics.Tracing.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.dll" Modified="10.9.2024 8:36:36" Size="50960" Version="6.0.3524.45918">System.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Drawing.dll" Modified="10.9.2024 8:28:32" Size="21256" Version="6.0.3524.45918">System.Drawing.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Drawing.Primitives.dll" Modified="10.9.2024 8:44:46" Size="130312" Version="6.0.3524.45918">System.Drawing.Primitives.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Dynamic.Runtime.dll" Modified="10.9.2024 8:30:26" Size="16648" Version="6.0.3524.45918">System.Dynamic.Runtime.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Formats.Asn1.dll" Modified="10.9.2024 8:44:48" Size="200456" Version="6.0.3524.45918">System.Formats.Asn1.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Globalization.Calendars.dll" Modified="10.9.2024 8:32:38" Size="16168" Version="6.0.3524.45918">System.Globalization.Calendars.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Globalization.dll" Modified="10.9.2024 8:32:48" Size="16032" Version="6.0.3524.45918">System.Globalization.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Globalization.Extensions.dll" Modified="10.9.2024 8:31:02" Size="15640" Version="6.0.3524.45918">System.Globalization.Extensions.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.IO.Compression.Brotli.dll" Modified="10.9.2024 8:44:50" Size="72968" Version="6.0.3524.45918">System.IO.Compression.Brotli.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.IO.Compression.dll" Modified="10.9.2024 8:44:54" Size="267056" Version="6.0.3524.45918">System.IO.Compression.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.IO.Compression.FileSystem.dll" Modified="10.9.2024 8:28:34" Size="16136" Version="6.0.3524.45918">System.IO.Compression.FileSystem.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.IO.Compression.Native.dll" Modified="10.9.2024 8:26:56" Size="826128" Version="42.42.42.42424">System.IO.Compression.Native.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.IO.Compression.ZipFile.dll" Modified="10.9.2024 8:44:56" Size="39688" Version="6.0.3524.45918">System.IO.Compression.ZipFile.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.IO.dll" Modified="10.9.2024 8:30:08" Size="16136" Version="6.0.3524.45918">System.IO.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.IO.FileSystem.AccessControl.dll" Modified="10.9.2024 8:44:58" Size="93960" Version="6.0.3524.45918">System.IO.FileSystem.AccessControl.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.IO.FileSystem.dll" Modified="10.9.2024 8:29:12" Size="24328" Version="6.0.3524.45918">System.IO.FileSystem.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.IO.FileSystem.DriveInfo.dll" Modified="10.9.2024 8:45:00" Size="42784" Version="6.0.3524.45918">System.IO.FileSystem.DriveInfo.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.IO.FileSystem.Primitives.dll" Modified="10.9.2024 8:31:34" Size="15632" Version="6.0.3524.45918">System.IO.FileSystem.Primitives.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.IO.FileSystem.Watcher.dll" Modified="10.9.2024 8:45:02" Size="72456" Version="6.0.3524.45918">System.IO.FileSystem.Watcher.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.IO.IsolatedStorage.dll" Modified="10.9.2024 8:45:04" Size="83720" Version="6.0.3524.45918">System.IO.IsolatedStorage.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.IO.MemoryMappedFiles.dll" Modified="10.9.2024 8:45:06" Size="69392" Version="6.0.3524.45918">System.IO.MemoryMappedFiles.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.IO.Pipes.AccessControl.dll" Modified="10.9.2024 8:31:22" Size="16656" Version="6.0.3524.45918">System.IO.Pipes.AccessControl.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.IO.Pipes.dll" Modified="10.9.2024 8:45:08" Size="136456" Version="6.0.3524.45918">System.IO.Pipes.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.IO.UnmanagedMemoryStream.dll" Modified="10.9.2024 8:32:32" Size="15632" Version="6.0.3524.45918">System.IO.UnmanagedMemoryStream.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Linq.dll" Modified="10.9.2024 8:45:10" Size="537896" Version="6.0.3524.45918">System.Linq.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Linq.Expressions.dll" Modified="10.9.2024 8:45:14" Size="3857168" Version="6.0.3524.45918">System.Linq.Expressions.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Linq.Parallel.dll" Modified="10.9.2024 8:45:18" Size="848680" Version="6.0.3524.45918">System.Linq.Parallel.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Linq.Queryable.dll" Modified="10.9.2024 8:45:20" Size="228616" Version="6.0.3524.45918">System.Linq.Queryable.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Memory.dll" Modified="10.9.2024 8:45:22" Size="173832" Version="6.0.3524.45918">System.Memory.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Net.dll" Modified="10.9.2024 8:28:34" Size="18184" Version="6.0.3524.45918">System.Net.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Net.Http.dll" Modified="10.9.2024 8:45:24" Size="1807120" Version="6.0.3524.45918">System.Net.Http.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Net.Http.Json.dll" Modified="10.9.2024 8:45:26" Size="82184" Version="6.0.3524.45918">System.Net.Http.Json.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Net.HttpListener.dll" Modified="10.9.2024 8:45:28" Size="639152" Version="6.0.3524.45918">System.Net.HttpListener.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Net.Mail.dll" Modified="10.9.2024 8:45:30" Size="552248" Version="6.0.3524.45918">System.Net.Mail.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Net.NameResolution.dll" Modified="10.9.2024 8:45:32" Size="101136" Version="6.0.3524.45918">System.Net.NameResolution.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Net.NetworkInformation.dll" Modified="10.9.2024 8:45:36" Size="150792" Version="6.0.3524.45918">System.Net.NetworkInformation.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Net.Ping.dll" Modified="10.9.2024 8:45:36" Size="79136" Version="6.0.3524.45918">System.Net.Ping.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Net.Primitives.dll" Modified="10.9.2024 8:45:38" Size="214288" Version="6.0.3524.45918">System.Net.Primitives.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Net.Quic.dll" Modified="10.9.2024 8:45:42" Size="293640" Version="6.0.3524.45918">System.Net.Quic.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Net.Requests.dll" Modified="10.9.2024 8:45:44" Size="349456" Version="6.0.3524.45918">System.Net.Requests.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Net.Security.dll" Modified="10.9.2024 8:45:46" Size="685320" Version="6.0.3524.45918">System.Net.Security.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Net.ServicePoint.dll" Modified="10.9.2024 8:45:48" Size="37136" Version="6.0.3524.45918">System.Net.ServicePoint.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Net.Sockets.dll" Modified="10.9.2024 8:45:50" Size="506632" Version="6.0.3524.45918">System.Net.Sockets.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Net.WebClient.dll" Modified="10.9.2024 8:45:52" Size="166696" Version="6.0.3524.45918">System.Net.WebClient.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Net.WebHeaderCollection.dll" Modified="10.9.2024 8:45:54" Size="60696" Version="6.0.3524.45918">System.Net.WebHeaderCollection.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Net.WebProxy.dll" Modified="10.9.2024 8:45:56" Size="32056" Version="6.0.3524.45918">System.Net.WebProxy.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Net.WebSockets.Client.dll" Modified="10.9.2024 8:45:58" Size="76568" Version="6.0.3524.45918">System.Net.WebSockets.Client.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Net.WebSockets.dll" Modified="10.9.2024 8:46:00" Size="182064" Version="6.0.3524.45918">System.Net.WebSockets.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Numerics.dll" Modified="10.9.2024 8:28:34" Size="16144" Version="6.0.3524.45918">System.Numerics.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Numerics.Vectors.dll" Modified="10.9.2024 8:32:38" Size="16136" Version="6.0.3524.45918">System.Numerics.Vectors.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.ObjectModel.dll" Modified="10.9.2024 8:46:02" Size="91312" Version="6.0.3524.45918">System.ObjectModel.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Private.CoreLib.dll" Modified="10.9.2024 8:24:42" Size="10637488" Version="6.0.3524.45918">System.Private.CoreLib.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Private.DataContractSerialization.dll" Modified="10.9.2024 8:46:04" Size="2077448" Version="6.0.3524.45918">System.Private.DataContractSerialization.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Private.Uri.dll" Modified="10.9.2024 8:46:06" Size="252712" Version="6.0.3524.45918">System.Private.Uri.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Private.Xml.dll" Modified="10.9.2024 8:46:12" Size="8505608" Version="6.0.3524.45918">System.Private.Xml.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Private.Xml.Linq.dll" Modified="10.9.2024 8:46:16" Size="405264" Version="6.0.3524.45918">System.Private.Xml.Linq.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Reflection.DispatchProxy.dll" Modified="10.9.2024 8:46:18" Size="66312" Version="6.0.3524.45918">System.Reflection.DispatchProxy.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Reflection.dll" Modified="10.9.2024 8:32:42" Size="16656" Version="6.0.3524.45918">System.Reflection.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Reflection.Emit.dll" Modified="10.9.2024 8:32:54" Size="16144" Version="6.0.3524.45918">System.Reflection.Emit.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Reflection.Emit.ILGeneration.dll" Modified="10.9.2024 8:32:32" Size="16136" Version="6.0.3524.45918">System.Reflection.Emit.ILGeneration.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Reflection.Emit.Lightweight.dll" Modified="10.9.2024 8:33:36" Size="16184" Version="6.0.3524.45918">System.Reflection.Emit.Lightweight.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Reflection.Extensions.dll" Modified="10.9.2024 8:31:52" Size="15624" Version="6.0.3524.45918">System.Reflection.Extensions.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Reflection.Metadata.dll" Modified="10.9.2024 8:46:20" Size="1130656" Version="6.0.3524.45918">System.Reflection.Metadata.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Reflection.Primitives.dll" Modified="10.9.2024 8:32:38" Size="16144" Version="6.0.3524.45918">System.Reflection.Primitives.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Reflection.TypeExtensions.dll" Modified="10.9.2024 8:46:22" Size="33592" Version="6.0.3524.45918">System.Reflection.TypeExtensions.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Resources.Reader.dll" Modified="10.9.2024 8:30:22" Size="15624" Version="6.0.3524.45918">System.Resources.Reader.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Resources.ResourceManager.dll" Modified="10.9.2024 8:33:18" Size="16176" Version="6.0.3524.45918">System.Resources.ResourceManager.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Resources.Writer.dll" Modified="10.9.2024 8:46:24" Size="45320" Version="6.0.3524.45918">System.Resources.Writer.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Runtime.CompilerServices.Unsafe.dll" Modified="10.9.2024 8:46:26" Size="22800" Version="6.0.3524.45918">System.Runtime.CompilerServices.Unsafe.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Runtime.CompilerServices.VisualC.dll" Modified="10.9.2024 8:46:28" Size="20232" Version="6.0.3524.45918">System.Runtime.CompilerServices.VisualC.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Runtime.dll" Modified="10.9.2024 8:33:16" Size="42768" Version="6.0.3524.45918">System.Runtime.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Runtime.Extensions.dll" Modified="10.9.2024 8:33:20" Size="18192" Version="6.0.3524.45918">System.Runtime.Extensions.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Runtime.Handles.dll" Modified="10.9.2024 8:31:20" Size="15632" Version="6.0.3524.45918">System.Runtime.Handles.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Runtime.InteropServices.dll" Modified="10.9.2024 8:46:30" Size="51984" Version="6.0.3524.45918">System.Runtime.InteropServices.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Runtime.InteropServices.RuntimeInformation.dll" Modified="10.9.2024 8:46:32" Size="32008" Version="6.0.3524.45918">System.Runtime.InteropServices.RuntimeInformation.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Runtime.Intrinsics.dll" Modified="10.9.2024 8:32:46" Size="16656" Version="6.0.3524.45918">System.Runtime.Intrinsics.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Runtime.Loader.dll" Modified="10.9.2024 8:32:48" Size="16136" Version="6.0.3524.45918">System.Runtime.Loader.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Runtime.Numerics.dll" Modified="10.9.2024 8:46:34" Size="221960" Version="6.0.3524.45918">System.Runtime.Numerics.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Runtime.Serialization.dll" Modified="10.9.2024 8:28:34" Size="17672" Version="6.0.3524.45918">System.Runtime.Serialization.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Runtime.Serialization.Formatters.dll" Modified="10.9.2024 8:46:36" Size="322824" Version="6.0.3524.45918">System.Runtime.Serialization.Formatters.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Runtime.Serialization.Json.dll" Modified="10.9.2024 8:31:16" Size="16136" Version="6.0.3524.45918">System.Runtime.Serialization.Json.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Runtime.Serialization.Primitives.dll" Modified="10.9.2024 8:46:38" Size="28944" Version="6.0.3524.45918">System.Runtime.Serialization.Primitives.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Runtime.Serialization.Xml.dll" Modified="10.9.2024 8:31:00" Size="16656" Version="6.0.3524.45918">System.Runtime.Serialization.Xml.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Security.AccessControl.dll" Modified="10.9.2024 8:46:40" Size="215336" Version="6.0.3524.45918">System.Security.AccessControl.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Security.Claims.dll" Modified="10.9.2024 8:46:42" Size="94480" Version="6.0.3524.45918">System.Security.Claims.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Security.Cryptography.Algorithms.dll" Modified="10.9.2024 8:46:44" Size="808712" Version="6.0.3524.45918">System.Security.Cryptography.Algorithms.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Security.Cryptography.Cng.dll" Modified="10.9.2024 8:46:48" Size="486664" Version="6.0.3524.45918">System.Security.Cryptography.Cng.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Security.Cryptography.Csp.dll" Modified="10.9.2024 8:46:50" Size="189616" Version="6.0.3524.45918">System.Security.Cryptography.Csp.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Security.Cryptography.Encoding.dll" Modified="10.9.2024 8:46:52" Size="93960" Version="6.0.3524.45918">System.Security.Cryptography.Encoding.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Security.Cryptography.OpenSsl.dll" Modified="10.9.2024 8:46:54" Size="32008" Version="6.0.3524.45918">System.Security.Cryptography.OpenSsl.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Security.Cryptography.Primitives.dll" Modified="10.9.2024 8:46:56" Size="134832" Version="6.0.3524.45918">System.Security.Cryptography.Primitives.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Security.Cryptography.X509Certificates.dll" Modified="10.9.2024 8:46:58" Size="569112" Version="6.0.3524.45918">System.Security.Cryptography.X509Certificates.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Security.dll" Modified="10.9.2024 8:28:36" Size="18696" Version="6.0.3524.45918">System.Security.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Security.Principal.dll" Modified="10.9.2024 8:32:42" Size="15640" Version="6.0.3524.45918">System.Security.Principal.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Security.Principal.Windows.dll" Modified="10.9.2024 8:47:00" Size="151712" Version="6.0.3524.45918">System.Security.Principal.Windows.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Security.SecureString.dll" Modified="10.9.2024 8:31:12" Size="15632" Version="6.0.3524.45918">System.Security.SecureString.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.ServiceModel.Web.dll" Modified="10.9.2024 8:28:36" Size="17680" Version="6.0.3524.45918">System.ServiceModel.Web.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.ServiceProcess.dll" Modified="10.9.2024 8:28:36" Size="16648" Version="6.0.3524.45918">System.ServiceProcess.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Text.Encoding.CodePages.dll" Modified="10.9.2024 8:47:02" Size="871176" Version="6.0.3524.45918">System.Text.Encoding.CodePages.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Text.Encoding.dll" Modified="10.9.2024 8:32:40" Size="16160" Version="6.0.3524.45918">System.Text.Encoding.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Text.Encoding.Extensions.dll" Modified="10.9.2024 8:32:52" Size="16144" Version="6.0.3524.45918">System.Text.Encoding.Extensions.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Text.Encodings.Web.dll" Modified="10.9.2024 8:47:04" Size="131376" Version="6.0.3524.45918">System.Text.Encodings.Web.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Text.Json.dll" Modified="10.9.2024 8:47:08" Size="1486120" Version="6.0.3524.45918">System.Text.Json.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Text.RegularExpressions.dll" Modified="10.9.2024 8:47:10" Size="530184" Version="6.0.3524.45918">System.Text.RegularExpressions.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Threading.Channels.dll" Modified="10.9.2024 8:47:12" Size="125208" Version="6.0.3524.45918">System.Threading.Channels.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Threading.dll" Modified="10.9.2024 8:47:14" Size="80144" Version="6.0.3524.45918">System.Threading.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Threading.Overlapped.dll" Modified="10.9.2024 8:32:44" Size="16136" Version="6.0.3524.45918">System.Threading.Overlapped.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Threading.Tasks.Dataflow.dll" Modified="10.9.2024 8:47:16" Size="505608" Version="6.0.3524.45918">System.Threading.Tasks.Dataflow.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Threading.Tasks.dll" Modified="10.9.2024 8:33:00" Size="17192" Version="6.0.3524.45918">System.Threading.Tasks.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Threading.Tasks.Extensions.dll" Modified="10.9.2024 8:32:50" Size="16136" Version="6.0.3524.45918">System.Threading.Tasks.Extensions.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Threading.Tasks.Parallel.dll" Modified="10.9.2024 8:47:18" Size="139024" Version="6.0.3524.45918">System.Threading.Tasks.Parallel.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Threading.Thread.dll" Modified="10.9.2024 8:32:48" Size="16144" Version="6.0.3524.45918">System.Threading.Thread.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Threading.ThreadPool.dll" Modified="10.9.2024 8:32:58" Size="16160" Version="6.0.3524.45918">System.Threading.ThreadPool.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Threading.Timer.dll" Modified="10.9.2024 8:33:06" Size="15648" Version="6.0.3524.45918">System.Threading.Timer.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Transactions.dll" Modified="10.9.2024 8:28:36" Size="17160" Version="6.0.3524.45918">System.Transactions.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Transactions.Local.dll" Modified="10.9.2024 8:47:20" Size="351520" Version="6.0.3524.45918">System.Transactions.Local.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.ValueTuple.dll" Modified="10.9.2024 8:31:26" Size="15648" Version="6.0.3524.45918">System.ValueTuple.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Web.dll" Modified="10.9.2024 8:28:38" Size="16136" Version="6.0.3524.45918">System.Web.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Web.HttpUtility.dll" Modified="10.9.2024 8:47:22" Size="52896" Version="6.0.3524.45918">System.Web.HttpUtility.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Windows.dll" Modified="10.9.2024 8:28:38" Size="16664" Version="6.0.3524.45918">System.Windows.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Xml.dll" Modified="10.9.2024 8:36:38" Size="24736" Version="6.0.3524.45918">System.Xml.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Xml.Linq.dll" Modified="10.9.2024 8:28:38" Size="16672" Version="6.0.3524.45918">System.Xml.Linq.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Xml.ReaderWriter.dll" Modified="10.9.2024 8:32:10" Size="22176" Version="6.0.3524.45918">System.Xml.ReaderWriter.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Xml.Serialization.dll" Modified="10.9.2024 8:28:40" Size="16664" Version="6.0.3524.45918">System.Xml.Serialization.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Xml.XDocument.dll" Modified="10.9.2024 8:32:06" Size="16144" Version="6.0.3524.45918">System.Xml.XDocument.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Xml.XmlDocument.dll" Modified="10.9.2024 8:32:14" Size="16136" Version="6.0.3524.45918">System.Xml.XmlDocument.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Xml.XmlSerializer.dll" Modified="10.9.2024 8:32:18" Size="18208" Version="6.0.3524.45918">System.Xml.XmlSerializer.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Xml.XPath.dll" Modified="10.9.2024 8:32:28" Size="16136" Version="6.0.3524.45918">System.Xml.XPath.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="System.Xml.XPath.XDocument.dll" Modified="10.9.2024 8:47:24" Size="18192" Version="6.0.3524.45918">System.Xml.XPath.XDocument.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="ucrtbase.dll" Modified="11.9.2021 22:05:14" Size="1122768" Version="10.0.22000.194">ucrtbase.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Pattern_Drawing_Csharp_Project" Component="WindowsBase.dll" Modified="10.9.2024 8:28:40" Size="17160" Version="6.0.3524.45918">WindowsBase.dll</File>
+  </Files>
+</BuildReport>
